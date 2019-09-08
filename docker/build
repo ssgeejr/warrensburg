@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker rmi -f warrensburg
+docker build -t warrensburg .

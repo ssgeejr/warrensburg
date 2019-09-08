@@ -1,0 +1,11 @@
+version: '3'
+services:
+  tomcat:
+    image: warrensburg
+    container_name: warrensburg
+    tty: true
+    stdin_open: true
+    restart: always
+    ports:
+      - 80:8080
+
