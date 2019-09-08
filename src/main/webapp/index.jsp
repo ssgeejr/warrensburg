@@ -33,7 +33,7 @@
 
 <table style="width: 100%">
 	<tr>
-		<td><img alt="The Burg" height="300" src="burg.png" width="1097"></td>
+		<td class="auto-style1"><img alt="The Burg" height="300" src="burg.png" width="1097"></td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
