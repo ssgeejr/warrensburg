@@ -3,7 +3,26 @@
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Warrensburg Tigers</title>
+<meta content="en-us" http-equiv="Content-Language">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Warrensburg Missiouri</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<meta name="title" content="Warrensburg Missiouri" />
+<meta name="description"
+	content="A small town in Missiori">
+<meta name="robots" content="index, follow">
+<meta name="keywords"
+	content="Missiouri warrensbug theburg burg cmu central missiouri university mules jennies" />
+<meta property="author" content="admin@warrensburg.us" />
+
+<meta property="og:title"
+	content="Warrensburg Missiouri" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://warrensburg.us/" />
+<meta property="og:image" content="http://warrensburg.us/logo.sm.jpg" />
+<meta property="og:description"
+	content="A small town in Missiori" />
+<meta property="og:site_name" content="Warrensburg" />
 <style type="text/css">
 .center-text {
 	text-align: center;
@@ -68,9 +87,11 @@
 <body>
 
 
-<br>
+
 <div align="center">
-	<img alt="Warrensburg Tigers" height="144" src="logo_m.jpg" width="587" /><br />
+
+<img alt="Warrensburg Tigers" height="144" src="logo_m.jpg" width="587" />
+<br />
 <table border="0" cellpadding="0" cellspacing="0" 549" class="auto-style2">
 	<tr>
 		<td class="auto-style7" style="width: 49px">
