@@ -96,102 +96,102 @@
 	<tr>
 		<td class="auto-style7" style="width: 49px">
 		<strong>Week</strong></td>
-		<td  style="width: 71pt" class="auto-style8"><strong>Date</strong></td>
-		<td  style="width: 77pt" class="auto-style8"><strong>Location</strong></td>
-		<td  style="width: 62pt" class="auto-style8"><strong>Time</strong></td>
-		<td  style="width: 86pt" class="auto-style8"><strong>Home</strong></td>
-		<td  style="width: 79pt" class="auto-style8"><strong>Away</strong></td>
-		<td  style="width: 105pt" class="auto-style9"><strong>White Hat</strong></td>
+		<td  style="width: 80pt" class="auto-style8"><strong>Date</strong></td>
+		<td  style="width: 84pt" class="auto-style8"><strong>Location</strong></td>
+		<td  style="width: 73pt" class="auto-style8"><strong>Time</strong></td>
+		<td  style="width: 101pt" class="auto-style8"><strong>Home</strong></td>
+		<td  style="width: 89pt" class="auto-style8"><strong>Away</strong></td>
+		<td  style="width: 122pt" class="auto-style9"><strong>White Hat</strong></td>
 	</tr>
 	<tr bgcolor="#FFFFCC">
 		<td class="auto-style1" style="width: 49px" >2</td>
-		<td style="width: 71pt">Sat, Sep 7</td>
-		<td style="width: 77pt">Clinton</td>
-		<td style="width: 62pt">10:30 AM</td>
-		<td style="width: 86pt">Clinton</td>
-		<td style="width: 79pt">Warrensburg</td>
-		<td class="auto-style3" style="width: 105pt"></td>
+		<td style="width: 80pt">Sat, Sep 7</td>
+		<td style="width: 84pt">Clinton</td>
+		<td style="width: 73pt">10:30 AM</td>
+		<td style="width: 101pt">Clinton</td>
+		<td style="width: 89pt">Warrensburg</td>
+		<td class="auto-style3" style="width: 122pt"></td>
 	</tr>
 	<tr>
 		<td class="auto-style1" style="width: 49px" >3</td>
-		<td style="width: 71pt">Sat, Sep 14</td>
-		<td style="width: 77pt">Warrensburg</td>
-		<td style="width: 62pt">9:00 AM</td>
-		<td style="width: 86pt">Warrensburg</td>
-		<td style="width: 79pt">Holden</td>
-		<td class="auto-style3" style="width: 105pt">Dave Callaway</td>
+		<td style="width: 80pt">Sat, Sep 14</td>
+		<td style="width: 84pt">Warrensburg</td>
+		<td style="width: 73pt">9:00 AM</td>
+		<td style="width: 101pt">Warrensburg</td>
+		<td style="width: 89pt">Holden</td>
+		<td class="auto-style3" style="width: 122pt">Dave Callaway</td>
 	</tr>
 	<tr bgcolor="#FFFFCC">
 		<td class="auto-style1" style="width: 49px" >4</td>
-		<td style="width: 71pt">Sat, Sep 21</td>
-		<td style="width: 77pt">Oak Grove</td>
-		<td style="width: 62pt">2:00 PM</td>
-		<td style="width: 86pt">Oak Grove</td>
-		<td style="width: 79pt">Warrensburg</td>
-		<td class="auto-style3" style="width: 105pt"></td>
+		<td style="width: 80pt">Sat, Sep 21</td>
+		<td style="width: 84pt">Oak Grove</td>
+		<td style="width: 73pt">2:00 PM</td>
+		<td style="width: 101pt">Oak Grove</td>
+		<td style="width: 89pt">Warrensburg</td>
+		<td class="auto-style3" style="width: 122pt"></td>
 	</tr>
 	<tr>
 		<td class="auto-style1" style="width: 49px" >5</td>
-		<td style="width: 71pt">Sat, Sep 28</td>
-		<td style="width: 77pt">Warrensburg</td>
-		<td style="width: 62pt">10:30 AM</td>
-		<td style="width: 86pt">Warrensburg</td>
-		<td style="width: 79pt">Oak Grove</td>
-		<td class="auto-style3" style="width: 105pt"></td>
+		<td style="width: 80pt">Sat, Sep 28</td>
+		<td style="width: 84pt">Warrensburg</td>
+		<td style="width: 73pt">10:30 AM</td>
+		<td style="width: 101pt">Warrensburg</td>
+		<td style="width: 89pt">Oak Grove</td>
+		<td class="auto-style3" style="width: 122pt"></td>
 	</tr>
 	<tr bgcolor="#FFFFCC">
 		<td class="auto-style1" style="width: 49px" >6</td>
-		<td style="width: 71pt">Sat, Oct 5</td>
-		<td style="width: 77pt">Warrensburg</td>
-		<td style="width: 62pt">9:00 AM</td>
-		<td style="width: 86pt">Warrensburg</td>
-		<td style="width: 79pt">Clinton</td>
-		<td class="auto-style3" style="width: 105pt">Dave Callaway</td>
+		<td style="width: 80pt">Sat, Oct 5</td>
+		<td style="width: 84pt">Warrensburg</td>
+		<td style="width: 73pt">9:00 AM</td>
+		<td style="width: 101pt">Warrensburg</td>
+		<td style="width: 89pt">Clinton</td>
+		<td class="auto-style3" style="width: 122pt">Dave Callaway</td>
 	</tr>
 	<tr>
 		<td class="auto-style1" style="width: 49px" >7</td>
-		<td style="width: 71pt">Sat, Oct 12</td>
-		<td style="width: 77pt">Holden</td>
-		<td style="width: 62pt">2:30 PM</td>
-		<td style="width: 86pt">Holden</td>
-		<td style="width: 79pt">Warrensburg</td>
-		<td class="auto-style3" style="width: 105pt"></td>
+		<td style="width: 80pt">Sat, Oct 12</td>
+		<td style="width: 84pt">Holden</td>
+		<td style="width: 73pt">2:30 PM</td>
+		<td style="width: 101pt">Holden</td>
+		<td style="width: 89pt">Warrensburg</td>
+		<td class="auto-style3" style="width: 122pt"></td>
 	</tr>
 	<tr bgcolor="#FFFFCC">
 		<td class="auto-style1" style="width: 49px" >8</td>
-		<td style="width: 71pt">Sat, Oct 19</td>
-		<td style="width: 77pt">TBD</td>
-		<td style="width: 62pt">TBD</td>
-		<td style="width: 86pt">#1 vs #4 Blue</td>
-		<td style="width: 79pt"></td>
-		<td class="auto-style3" style="width: 105pt"></td>
+		<td style="width: 80pt">Sat, Oct 19</td>
+		<td style="width: 84pt">TBD</td>
+		<td style="width: 73pt">TBD</td>
+		<td style="width: 101pt">#1 vs #4 Blue</td>
+		<td style="width: 89pt"></td>
+		<td class="auto-style3" style="width: 122pt"></td>
 	</tr>
 	<tr>
 		<td class="auto-style1" style="width: 49px" >8</td>
-		<td style="width: 71pt">Sat, Oct 19</td>
-		<td style="width: 77pt">TBD</td>
-		<td style="width: 62pt">TBD</td>
-		<td style="width: 86pt">#2 vs #3 Blue</td>
-		<td style="width: 79pt"></td>
-		<td class="auto-style3" style="width: 105pt"></td>
+		<td style="width: 80pt">Sat, Oct 19</td>
+		<td style="width: 84pt">TBD</td>
+		<td style="width: 73pt">TBD</td>
+		<td style="width: 101pt">#2 vs #3 Blue</td>
+		<td style="width: 89pt"></td>
+		<td class="auto-style3" style="width: 122pt"></td>
 	</tr>
 	<tr bgcolor="#FFFFCC">
 		<td class="auto-style1" style="width: 49px" >8</td>
-		<td style="width: 71pt">Sat, Oct 19</td>
-		<td style="width: 77pt">TBD</td>
-		<td style="width: 62pt">TBD</td>
-		<td style="width: 86pt">#5 vs #8 Red</td>
-		<td style="width: 79pt"></td>
-		<td class="auto-style3" style="width: 105pt"></td>
+		<td style="width: 80pt">Sat, Oct 19</td>
+		<td style="width: 84pt">TBD</td>
+		<td style="width: 73pt">TBD</td>
+		<td style="width: 101pt">#5 vs #8 Red</td>
+		<td style="width: 89pt"></td>
+		<td class="auto-style3" style="width: 122pt"></td>
 	</tr>
 	<tr>
 		<td class="auto-style4" style="width: 49px" >8</td>
-		<td class="auto-style5" style="width: 71pt">Sat, Oct 19</td>
-		<td class="auto-style5" style="width: 77pt">TBD</td>
-		<td class="auto-style5" style="width: 62pt">TBD</td>
-		<td class="auto-style5" style="width: 86pt">#6 vs #7 Red</td>
-		<td class="auto-style5" style="width: 79pt"></td>
-		<td class="auto-style6" style="width: 105pt"></td>
+		<td class="auto-style5" style="width: 80pt">Sat, Oct 19</td>
+		<td class="auto-style5" style="width: 84pt">TBD</td>
+		<td class="auto-style5" style="width: 73pt">TBD</td>
+		<td class="auto-style5" style="width: 101pt">#6 vs #7 Red</td>
+		<td class="auto-style5" style="width: 89pt"></td>
+		<td class="auto-style6" style="width: 122pt"></td>
 	</tr>
 </table>
 </div>
