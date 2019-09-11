@@ -116,7 +116,7 @@
 		<td class="auto-style1" style="width: 49px" >3</td>
 		<td style="width: 80pt">Sat, Sep 14</td>
 		<td style="width: 84pt">Warrensburg</td>
-		<td style="width: 73pt">9:00 AM</td>
+		<td style="width: 73pt">11:00 AM</td>
 		<td style="width: 101pt">Warrensburg</td>
 		<td style="width: 89pt">Holden</td>
 		<td class="auto-style3" style="width: 122pt">Dave Callaway</td>
